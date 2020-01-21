@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb564e3c0dad264c899a7fbb526b193, type: 3}
+  m_Name: Storage Antwoord Fout
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: bc9c661022303364b8a7f5826bd80a34, type: 3}
+  - {fileID: 8300000, guid: bafbdc2588590ba4c913d76e570a0bda, type: 3}
+  - {fileID: 8300000, guid: d3473efea008ec341ac879b9f2c1074f, type: 3}
+  - {fileID: 8300000, guid: 33cbf3d99700cc84d922dde3fbc5d33c, type: 3}
+  myStrings:
+  - Ik zie dat je niet durft op te ruimen
+  - En je rug niet met deze situatie vertrouwd
+  - ik nodig je uit meer te leren over je lichaam
+  - Verken het huis voor meer informatie
+  myTimer:
+  - 2
+  - 2
+  - 2
+  - 2
+  question: 0
+  questBool: 0
+  quest: {fileID: 0}
+  questAmount: 0

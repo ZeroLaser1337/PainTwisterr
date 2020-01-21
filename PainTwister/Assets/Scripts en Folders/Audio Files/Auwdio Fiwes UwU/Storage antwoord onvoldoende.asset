@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb564e3c0dad264c899a7fbb526b193, type: 3}
+  m_Name: Storage antwoord onvoldoende
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: 077ddd0b4ca38db47ab06d996ad73942, type: 3}
+  - {fileID: 8300000, guid: 5097394c97bb84b4ea56efeddbb1bfe8, type: 3}
+  - {fileID: 8300000, guid: 4394424c7d6f8a24a9eba7c61dd6388b, type: 3}
+  - {fileID: 8300000, guid: 61b7c425fa586e8418c8d50d69f90161, type: 3}
+  myStrings:
+  - 
+  - 
+  - 
+  - 
+  myTimer:
+  - 0
+  - 0
+  - 0
+  - 0
+  question: 0
+  questBool: 0
+  quest: {fileID: 0}
+  questAmount: 0

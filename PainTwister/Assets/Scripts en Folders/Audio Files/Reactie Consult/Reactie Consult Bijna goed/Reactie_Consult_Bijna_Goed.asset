@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb564e3c0dad264c899a7fbb526b193, type: 3}
+  m_Name: Reactie_Consult_Bijna_Goed
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: dd2af44c78bfa834589d5404c9122542, type: 3}
+  - {fileID: 8300000, guid: 1b9c742dca2f4ed48aad848dbfae5b2d, type: 3}
+  - {fileID: 8300000, guid: 522993139c3ab28478f9ab5fa63b8946, type: 3}
+  - {fileID: 8300000, guid: f099113d3feec5e4d90493cedd0783ce, type: 3}
+  myStrings:
+  - 'Goed bezig! '
+  - Gewoon doorgaan helpt jouw rug te herstellen.
+  - Eigenlijk hoef je niet eens voorzichtig te zijn.
+  - 'Heb vertrouwen in jouw eigen rug dat je zelf De zware dingen aan kan. '
+  myTimer:
+  - 1
+  - 2
+  - 2
+  - 3
+  question: 0
