@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Basic Unity Shit/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/PainTwister GameFiles/Scenes/MainHouse/BadHouse.unity
+    guid: 90e00d5e8214fb348b6d1c27ea0d0ec7
+  - enabled: 1
+    path: Assets/PainTwister GameFiles/Scenes/MainHouse/GoodHouse.unity
+    guid: 92f51dfc2431dc94da656f407cf8af17
+  - enabled: 1
+    path: Assets/PainTwister GameFiles/Scenes/MainHouse/MainHouse Start.unity
+    guid: 53448d48c60b00247959173f802c1a25
+  - enabled: 1
+    path: Assets/PainTwister GameFiles/Scenes/MainHouse/MiddleHouse.unity
+    guid: 1b98d5218b95de049a32b1b62934f524
+  - enabled: 1
+    path: Assets/PainTwister GameFiles/Scenes/Other Places/Consultent.unity
+    guid: 6904b9d09e7c270459f36cdc938ba2f3
   m_configObjects: {}
